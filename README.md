@@ -26,7 +26,7 @@ iremos apresentar menu como tabela de conteúdo, tecnologias, badge entre outros
 ## :rocket: status do projeto
 <p id="status">
    ... em construção
-   </P>
+</p>
 
 <p id="features"></p> 
 
